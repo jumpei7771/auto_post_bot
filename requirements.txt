@@ -1,0 +1,6 @@
+python-dotenv
+notion-client
+selenium
+openai
+requests
+pyperclip
