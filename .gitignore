@@ -1,0 +1,17 @@
+# 環境設定
+.env
+accounts.json
+
+# macのゴミファイル
+.DS_Store
+
+# 実行時に生成されるフォルダ
+__pycache__/
+chrome_profiles/
+
+# バックアップや一時ファイル
+*.pyc
+*.log
+
+
+
